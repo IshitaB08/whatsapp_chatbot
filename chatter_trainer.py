@@ -26,7 +26,7 @@ twilio_knowledge = [
 classifier = ["silly", "dumb", "stupid", "I'dont think so", "I don't care",
                    "do you know anything", "not good", "omg",
                    "this is bad", "not what I want", "live help",
-                   "get me a rep", "I need a real person"]
+                   "get me a rep", "I need a real person", "no"]
 
 #training iterators
 for topic, link in documentation_topics:
