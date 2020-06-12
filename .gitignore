@@ -1,4 +1,3 @@
 venv/*
 .vscode/*
-dbslite3/*
-__pycache__
+dbslite/*
