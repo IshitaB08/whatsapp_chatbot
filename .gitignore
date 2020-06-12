@@ -1,1 +1,4 @@
-/venv/*
+venv/*
+.vscode/*
+dbslite3/*
+__pycache__
